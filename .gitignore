@@ -27,6 +27,7 @@ spring-shell.log
 *.ipr
 *.ids
 *.orig
+*.report.html
 classes/
 out/
 ### Linux ###
@@ -50,8 +51,6 @@ out/
 .AppleDouble
 .LSOverride
 
-# Icon must end with two \r
-Icon
 
 # Thumbnails
 ._*
