@@ -20,5 +20,8 @@ Start the app in a local production server
 Audit the app
 `lighthouse http://localhost:8100 --view`
 
+Deploy on firebase
+`firebase deploy`
+
 
 
